@@ -1,5 +1,3 @@
-代码路径：https://github.com/yuanfengyun/qipai/tree/master/mjlib_lua/split
-
 传统拆分法(不带赖子）
 1、收集能做将的所有牌作为集合A
 2、遍历每种能做将的牌，扣除后，判断剩余牌是否能胡
