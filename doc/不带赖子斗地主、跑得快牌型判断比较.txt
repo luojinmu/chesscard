@@ -1,5 +1,3 @@
-代码路径：https://github.com/yuanfengyun/qipai/blob/master/pdk_lib/logic.lua
-
 思路：根据扑克相同的牌的最大张数，分类进行讨论
 
 1、1张，必做是单张或顺子
